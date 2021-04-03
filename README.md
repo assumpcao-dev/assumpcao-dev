@@ -10,12 +10,12 @@ I'm Rafael a Full Stack Web Developer Jr. [Youtube](https://youtube.com/UCdtbf3t
 
 <!-- TODO: Add last video link -->
 
-- :rocket: I’m currently learning API RESTFUL 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :rocket: I’m currently working API Restful with Node.js :octocat: [Repo.](https://github.com/assumpcao-dev/api-vendas.git)
+- :computer: Most used line of code `yarn add"`
 - :space_invader: I’m looking for collaborate on opensource project.
 - 📫 How to reach me: assumpcao.dev@gmail.com
 - 😄 Pronouns: He,assumpcaodev.
-- ⚡ Fun fact: I speak 2 languages ( Portuguese :br:, English :us:). I play :musical_keyboard: and go to the GYM very often.
+- ⚡ Fun fact: I speak 2 languages ( Portuguese :ba:, English :us:). I play :musical_keyboard: and go to the GYM very often.
 
 
 #### Top Technologies
@@ -78,8 +78,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 ```text
 TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
 HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown     2 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
@@ -94,4 +94,4 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E --># assumpcao-dev
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E -->
