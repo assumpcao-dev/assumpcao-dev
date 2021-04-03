@@ -1,6 +1,6 @@
-## Hi I'm Rafael  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Rafael :crown: <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Rafael a Full Stack Web Developer Jr. [Youtube](https://youtube.com/UCdtbf3to-0e211iOI2Xy8wA). I Spend most of time studying and coding. 
+I'm Rafael a Full Stack Web Developer [Youtube](https://youtube.com/UCdtbf3to-0e211iOI2Xy8wA). I Spend most of time studying and coding. 
 
 ## 
 
@@ -10,7 +10,7 @@ I'm Rafael a Full Stack Web Developer Jr. [Youtube](https://youtube.com/UCdtbf3t
 
 <!-- TODO: Add last video link -->
 
-- :rocket: I’m currently working API Restful with Node.js :octocat: [Repo.](https://github.com/assumpcao-dev/api-vendas.git)
+- :rocket: I’m currently working on API Restful with Node.js :octocat: [Repo.](https://github.com/assumpcao-dev/api-vendas.git)
 - :computer: Most used line of code `yarn add"`
 - :space_invader: I’m looking for collaborate on opensource project.
 - 📫 How to reach me: assumpcao.dev@gmail.com
