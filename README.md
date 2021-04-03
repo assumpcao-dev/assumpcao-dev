@@ -1,6 +1,8 @@
 ## Hi I'm Rafael  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Rafael a Full Stack Web Developer [Youtube](https://youtube.com/UCdtbf3to-0e211iOI2Xy8wA). I Spend most of time studying and coding. 
+I'm Rafael a Full Stack Web Developer Jr. [Youtube](https://youtube.com/UCdtbf3to-0e211iOI2Xy8wA). I Spend most of time studying and coding. 
+
+## 
 
 :mailbox: Reach me out!
 
@@ -8,12 +10,13 @@ I'm Rafael a Full Stack Web Developer [Youtube](https://youtube.com/UCdtbf3to-0e
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Typescript
+- :rocket: I’m currently learning API RESTFUL 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for contribute on opensource project.
+- :space_invader: I’m looking for collaborate on opensource project.
 - 📫 How to reach me: assumpcao.dev@gmail.com
-- 😄 Pronouns: He, assumpcaodev.
-- ⚡ Fun fact: I speak 2 languages ( Portuguese, English). I play keyboard and go to the GYM very often.
+- 😄 Pronouns: He,assumpcaodev.
+- ⚡ Fun fact: I speak 2 languages ( Portuguese :br:, English :us:). I play :musical_keyboard: and go to the GYM very often.
+
 
 #### Top Technologies
 
